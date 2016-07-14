@@ -30,6 +30,7 @@ version = "0.1"
 [dependencies.hyper]
 optional = true
 version = "0.8"
+default-features = false
 
 [dependencies.iron]
 optional = true
